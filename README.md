@@ -1,4 +1,4 @@
 # React Timer App
 
-Its a Timeer in react
+Its a Timer in react
 
