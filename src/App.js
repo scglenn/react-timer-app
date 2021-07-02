@@ -91,7 +91,7 @@ class App extends Component {
           <div class="input-group-prepend">
             <span class="input-group-text" id="inputGroup-sizing-default">Time Limit</span>
           </div>
-          <input type="text" class="form-control" placeholder='10' aria-label="Medium" aria-describedby="inputGroup-sizing-sm"
+          <input type='number' class="form-control" placeholder='10' aria-label="Medium" aria-describedby="inputGroup-sizing-sm"
             onChange={(e) => this.setTimeLimit(e.target.value)}
           ></input>
         </div>
